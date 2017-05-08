@@ -27,6 +27,6 @@ public class SplitSentence extends BaseBasicBolt {
     }
 
     public void declareOutputFields(OutputFieldsDeclarer outputFieldsDeclarer) {
-        outputFieldsDeclarer.declare(new Fields("word"));
+        outputFieldsDeclarer.declare(new Fields("word"));//定义字段
     }
 }

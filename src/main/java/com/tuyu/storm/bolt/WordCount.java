@@ -26,7 +26,7 @@ public class WordCount extends BaseBasicBolt {
     }
 
     @Override
-    public void cleanup() {
+    public void cleanup() {//实现cleanup接口，在cluster.shutdown()的时候调用，打印单词统计结果
         for (String key : counter.keySet()){
             System.out.println("total ---> " + key + " : " + counter.get(key));
         }

@@ -33,12 +33,12 @@ public class RandomSentenceSpout extends BaseRichSpout {
 
     public void nextTuple() {
         String[] sentences = new String[]{"hello my name is tuyu", "hi she is Lily", "how do you do", "that's great"};
-        String sentence = sentences[_random.nextInt(sentences.length)];
+        String sentence = sentences[_random.nextInt(sentences.length)];//随机发送
         _collector.emit(new Values(sentence));
-        Utils.sleep(100);
+        Utils.sleep(100);//每隔0.1秒发送一个句子
     }
 
     public void declareOutputFields(OutputFieldsDeclarer outputFieldsDeclarer) {
-        outputFieldsDeclarer.declare(new Fields("word"));
+        outputFieldsDeclarer.declare(new Fields("sentence"));//定义字段
     }
 }
