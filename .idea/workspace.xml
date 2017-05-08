@@ -2,35 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="134893b7-c1d6-42a1-bdbf-ce5d4529baea" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/hello_test-1-1494212735/1027/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/hello_test-1-1494212963/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/hello_test-1-1494213060/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/hello_test-1-1494213102/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/hello_test-1-1494213215/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/hello_test-1-1494213865/1027/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494211012/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494211134/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494211393/1027/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494214028/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494214218/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494221730/1027/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494222582/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494222591/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494222706/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494223256/1027/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494223338/1027/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494223610/1027/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494223676/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494223795/1027/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494223888/1027/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494224525/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494224615/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494224720/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494224848/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494224914/1027/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494225597/1027/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494227007/1024/worker.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/workers-artifacts/word-count-1-1494227068/1027/worker.yaml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -61,14 +32,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tuyu/storm/App.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -107,8 +76,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tuyu/storm/bolt/SplitSentence.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tuyu/storm/bolt/WordCount.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tuyu/storm/App.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -245,9 +214,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="logs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="workers-artifacts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="word-count-1-1494229402" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1024" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -260,24 +255,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="storm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="storm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dictionaries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -829,7 +806,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20981000" />
+    <option name="totallyTimeSpent" value="21565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="6" />
@@ -897,9 +874,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -937,9 +912,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -977,9 +950,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -987,9 +958,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -997,9 +966,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1073,9 +1040,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1083,9 +1048,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1123,9 +1086,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1163,9 +1124,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1173,9 +1132,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1183,9 +1140,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1257,27 +1212,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="37" column="42" lean-forward="true" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="142">
+          <caret line="78" column="39" lean-forward="true" selection-start-line="78" selection-start-column="39" selection-end-line="78" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tuyu/storm/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-65">
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
