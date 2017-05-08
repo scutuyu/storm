@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="134893b7-c1d6-42a1-bdbf-ce5d4529baea" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,6 +59,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tuyu/storm/bolt/WordCount.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tuyu/storm/App.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -737,7 +738,7 @@
       <workItem from="1493947917985" duration="603000" />
       <workItem from="1494206318787" duration="12171000" />
       <workItem from="1494225570024" duration="2389000" />
-      <workItem from="1494228134056" duration="147000" />
+      <workItem from="1494228134056" duration="205000" />
     </task>
     <servers />
   </component>
@@ -747,7 +748,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20064000" />
+    <option name="totallyTimeSpent" value="20122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="6" />
@@ -961,6 +962,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
