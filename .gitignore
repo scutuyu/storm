@@ -1,6 +1,6 @@
-logs
+.DS_Store
 .idea
 *.iml
-*.DS_Store
-.mvn
-mvn*
+logs
+target/generated-sources/
+target/generated-test-sources/
